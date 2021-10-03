@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<dsConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ttConfig>
+        <cType>Freude am fahren</cType>
+        <cClass>Exercise_07.BMW</cClass>
+    </ttConfig>
+    <ttConfig>
+        <cType>Vorsprung durch technik</cType>
+        <cClass>Exercise_07.Audi</cClass>
+    </ttConfig>
+    <ttConfig>
+        <cType>Go Further</cType>
+        <cClass>Exercise_07.Ford</cClass>
+    </ttConfig>
+</dsConfig>
